@@ -1,0 +1,15 @@
+D:\GeekBrains\C++\Seminar3\Zadacha_19\bin\Debug\net6.0\Zadacha_19.exe
+D:\GeekBrains\C++\Seminar3\Zadacha_19\bin\Debug\net6.0\Zadacha_19.deps.json
+D:\GeekBrains\C++\Seminar3\Zadacha_19\bin\Debug\net6.0\Zadacha_19.runtimeconfig.json
+D:\GeekBrains\C++\Seminar3\Zadacha_19\bin\Debug\net6.0\Zadacha_19.dll
+D:\GeekBrains\C++\Seminar3\Zadacha_19\bin\Debug\net6.0\Zadacha_19.pdb
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.csproj.AssemblyReference.cache
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.AssemblyInfoInputs.cache
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.AssemblyInfo.cs
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.dll
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\refint\Zadacha_19.dll
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.pdb
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\Zadacha_19.genruntimeconfig.cache
+D:\GeekBrains\C++\Seminar3\Zadacha_19\obj\Debug\net6.0\ref\Zadacha_19.dll
